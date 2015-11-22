@@ -10,3 +10,11 @@ The following configuration options are available:
 * having auto grow happen **on editor startup**
 
 Note: This plugin is designed to work only with the **classic editor**.
+
+
+License
+-------
+
+Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
+
+* For licensing, see [http://ckeditor.com/license](http://ckeditor.com/license)
